@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Bryan Dalessandro]]></title>
         <description><![CDATA[Bryan Dalessandro]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bryan-dalessandro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 18:36:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Apr 2016 18:36:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bryan-dalessandro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SPACE MUMMY - BURNING MAN 2009]]></title>
+            <description><![CDATA[<article><h1>SPACE MUMMY - BURNING MAN 2009</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65224d2e7065dc70d007227356dbb6db475b7cb4.jpg"></article>]]></description>
+            <link>https://vimeo.com/6515977</link>
+            <guid isPermaLink="false">c45922e0-d993-4995-962f-8d2648fed71c</guid>
+            <pubDate>Fri, 08 Apr 2016 18:36:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Electroluminescent (EL) Wire Space Mummy]]></title>
             <description><![CDATA[<article><h1>Electroluminescent (EL) Wire Space Mummy</h1><p>On my third trip to Burning Man I decided it was time to try my hand at EL wire. Really fantastic material.</p></article>]]></description>
