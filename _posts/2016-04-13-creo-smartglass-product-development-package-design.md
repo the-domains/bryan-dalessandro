@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'CREO Smartglass: Product Development + Package Design'
-datePublished: '2016-04-13T19:46:45.929Z'
-dateModified: '2016-04-13T19:46:44.264Z'
+datePublished: '2016-04-13T20:03:16.445Z'
+dateModified: '2016-04-13T19:47:11.272Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-13-creo-smartglass-product-development-package-design.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-creo-smartglass-product-development-package-design.md
-published: true
 url: creo-smartglass-product-development-package-design/index.html
 _type: Article
 
@@ -25,7 +25,7 @@ _type: Article
 CREO Smartglass: Product Development + Package Design
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eac1761d-bdd7-411e-905d-41a083d355e0.jpg)
 
-* Creo is a new high-end cooking prep and presentation brand. Their sole mission is to elevate the food experience. Their innovative smart glass technology is designed to be a beautiful standout on the table and is safe to use in the freezer, oven and dishwasher.   
+* Creo is a new high-end cooking prep and presentation brand. Their sole mission is to elevate the food experience. Their innovative smart glass technology is designed to be a beautiful standout on the table and is safe to use in the freezer, oven and dishwasher. 
 
 With such an advanced product they hired us to make sure it looked the part. We stepped in at the prototyping process guiding design and color selection.
 
