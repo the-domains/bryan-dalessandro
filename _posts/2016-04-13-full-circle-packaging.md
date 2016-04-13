@@ -5,24 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Full Circle Packaging
-datePublished: '2016-04-13T19:53:39.701Z'
-dateModified: '2016-04-13T19:53:26.798Z'
+description: 'FULL CIRCLE: PACKAGING & ICONS'
+datePublished: '2016-04-13T20:03:00.333Z'
+dateModified: '2016-04-13T20:02:50.479Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-13-full-circle-packaging.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-full-circle-packaging.md
-published: true
 url: full-circle-packaging/index.html
 _type: Article
 
 ---
-FULL CIRCLE: PACKAGING & ICONS
+Full Circle: Packaging & Icons
 
 Full Circle is an incredible brand designing intentional products that provide moments of satisfaction for their customers. This is accomplished through intuitive and sexy product design with materials that are innovative and sustainable. 
 
